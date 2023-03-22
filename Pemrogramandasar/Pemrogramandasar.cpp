@@ -5,3 +5,7 @@ float luaspersegipanjang(float p, float l) {
     return p * l;
 }
 
+float luaslingkaran(float r) {
+    return 3.14 * r * r;
+}
+
